@@ -8,4 +8,6 @@ matrices created using "create_distance_matrix" .py files
 from the output of the SDE component of the project. Then, using
 different versions of "training_classifier" .py files, the 
 training process that includes active learning can be done. 
+After obtaining the experiment results in terms of test accuracies,
+the visualizations can be done via "plot_results" .py files.
 
